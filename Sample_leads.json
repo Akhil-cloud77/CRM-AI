@@ -1,0 +1,22 @@
+[
+  {
+    "demo_requested": 1,
+    "registration": 1,
+    "enquiry_call_whatsapp": 1,
+    "enquiry_from_days": 2,
+    "price_comparison": 1,
+    "lead_event": 0,
+    "lead_call": 1,
+    "lead_referral": 0
+  },
+  {
+    "demo_requested": 0,
+    "registration": 1,
+    "enquiry_call_whatsapp": 0,
+    "enquiry_from_days": 15,
+    "price_comparison": 0,
+    "lead_event": 1,
+    "lead_call": 0,
+    "lead_referral": 1
+  }
+]
