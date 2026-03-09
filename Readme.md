@@ -35,3 +35,14 @@ Each lead contains the following attributes:
 4. Explanation and recommended action are returned
 
 ## Example Output
+Lead Name: Rahul Sharma
+Lead Score: 95 (Hot)
+
+Why?
+• Demo requested
+• WhatsApp enquiry
+• Checked pricing
+• Recent lead
+
+Next Best Action:
+Call immediately and schedule demo.
